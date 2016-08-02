@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Piktokey</string>
+    <string name="loading">Chargement en cours</string>
+    <string name="tv_normal">Insérez la clé et télécharger Piktoplus!</string>
+    <string name="tv_installed">Piktoplus a été installé avec succès</string>
+    <string name="error">Erreur de serveur!</string>
+    <string name="retry">Essayez à nouveau</string>
+    <string name="empty_license">Licence_vide</string>
+    <string name="incorrect">Licence incorrecte</string>
+
+</resources>

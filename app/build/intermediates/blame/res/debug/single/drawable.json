@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Android Studio Workspace\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white_round_normal.xml",
+        "source": "F:\\Android Studio Workspace\\app\\app\\src\\main\\res\\drawable\\bg_white_round_normal.xml"
+    },
+    {
+        "merged": "F:\\Android Studio Workspace\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn.xml",
+        "source": "F:\\Android Studio Workspace\\app\\app\\src\\main\\res\\drawable\\btn.xml"
+    },
+    {
+        "merged": "F:\\Android Studio Workspace\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.xml",
+        "source": "F:\\Android Studio Workspace\\app\\app\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "F:\\Android Studio Workspace\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white_round_pressed.xml",
+        "source": "F:\\Android Studio Workspace\\app\\app\\src\\main\\res\\drawable\\bg_white_round_pressed.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Android Studio Workspace\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_reload.png",
+        "source": "F:\\Android Studio Workspace\\app\\app\\src\\main\\res\\drawable-xhdpi\\btn_reload.png"
+    },
+    {
+        "merged": "F:\\Android Studio Workspace\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_arrow.png",
+        "source": "F:\\Android Studio Workspace\\app\\app\\src\\main\\res\\drawable-xhdpi\\btn_arrow.png"
+    },
+    {
+        "merged": "F:\\Android Studio Workspace\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\Android Studio Workspace\\app\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

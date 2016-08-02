@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#e0e0e0</color>
+    <dimen name="space_normal">16dp</dimen>
+    <dimen name="space_small">8dp</dimen>
+    <dimen name="text_big">24sp</dimen>
+    <dimen name="text_medium">18sp</dimen>
+    <string name="app_name">Piktokey</string>
+    <string name="empty_license">Empty license</string>
+    <string name="error">Server error!</string>
+    <string name="incorrect">Incorrect license</string>
+    <string name="loading">Loading</string>
+    <string name="retry">Retry</string>
+    <string name="tv_installed">Piktoplus is installed</string>
+    <string name="tv_normal">Insert Email, key and download Piktoplus!</string>
+</resources>

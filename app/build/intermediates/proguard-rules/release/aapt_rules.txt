@@ -1,0 +1,6 @@
+# view res/layout/activity_main.xml #generated:33
+-keep class com.limbika.piktoplus.key.LoadingView { <init>(...); }
+
+# view AndroidManifest.xml #generated:19
+-keep class com.limbika.piktoplus.key.MainActivity { <init>(...); }
+

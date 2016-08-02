@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.limbika.piktoplus.key"
+        minSdkVersion 10
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles 'proguard.cfg'
+        }
+        repositories {
+            maven { url 'https://oss.sonatype.org/content/repositories/ksoap2-android-releases' }
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/shared-v1.0.jar')
+    compile 'com.google.code.ksoap2-android:ksoap2-android:3.6.0'
+}
